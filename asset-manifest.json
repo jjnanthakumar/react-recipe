@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactrecipe/static/css/main.f60a57c9.chunk.css",
+    "main.js": "/reactrecipe/static/js/main.66fdf6af.chunk.js",
+    "main.js.map": "/reactrecipe/static/js/main.66fdf6af.chunk.js.map",
+    "runtime-main.js": "/reactrecipe/static/js/runtime-main.c7799962.js",
+    "runtime-main.js.map": "/reactrecipe/static/js/runtime-main.c7799962.js.map",
+    "static/js/2.d99be6df.chunk.js": "/reactrecipe/static/js/2.d99be6df.chunk.js",
+    "static/js/2.d99be6df.chunk.js.map": "/reactrecipe/static/js/2.d99be6df.chunk.js.map",
+    "static/js/3.1adb0e17.chunk.js": "/reactrecipe/static/js/3.1adb0e17.chunk.js",
+    "static/js/3.1adb0e17.chunk.js.map": "/reactrecipe/static/js/3.1adb0e17.chunk.js.map",
+    "index.html": "/reactrecipe/index.html",
+    "static/css/main.f60a57c9.chunk.css.map": "/reactrecipe/static/css/main.f60a57c9.chunk.css.map",
+    "static/js/2.d99be6df.chunk.js.LICENSE.txt": "/reactrecipe/static/js/2.d99be6df.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reactrecipe/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7799962.js",
+    "static/js/2.d99be6df.chunk.js",
+    "static/css/main.f60a57c9.chunk.css",
+    "static/js/main.66fdf6af.chunk.js"
+  ]
+}
